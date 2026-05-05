@@ -8,17 +8,24 @@
 
 ---
 ​Key Features: 
-​🔒 No Logging: GhostSpec never stores or sees your data. Everything happens locally within the execution environment.
-​---
-⚡ Zero Dependencies: Built on a pure JavaScript logic core to ensure maximum speed and broad compatibility across modern browsers.
 ---
-​🛠️ Developer First: Simple integration logic designed by ADWAIDHdev for seamless implementation in web dashboards and forensic tools.
+​🔒 No Logging:
+GhostSpec never stores or sees your data. Everything happens locally within the execution environment.
+​
+
+
+⚡ Zero Dependencies: 
+Built on a pure JavaScript logic core to ensure maximum speed and broad compatibility across modern browsers.
+
+​🛠️ Developer First: 
 ---
+Simple integration logic designed by ADWAIDHdev for seamless implementation in web dashboards and forensic tools.
+
 ​💻 Technical Implementation
 ​The GhostSpec engine utilizes an asynchronous self-invoking function to initialize the UI and prepare the environment for metadata extraction. By leveraging the exif-js library, it can parse complex image headers (Exchangeable Image File Format) to retrieve GPS coordinates, camera settings, and timestamps.
 ​Integration Code
 ​To deploy the GhostSpec interface, include the following snippet in your HTML file. This setup creates a secure container and initializes the developer-signed engine.
----
+
 ```html
 ```<div id="ghostspec-api-container"></div>
 
