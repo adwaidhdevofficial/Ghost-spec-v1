@@ -1,6 +1,8 @@
 # Ghost-spec-v1
 ​A lightweight, privacy-focused metadata engine. Built for performance, designed for developers
 
+![GhostSpec UI](https://i.ibb.co/gbK1Ksw6/IMG-20260505-193557.jpg)
+
 ​🚀 Overview
 ​GhostSpec API is a high-performance forensic metadata engine designed to extract information from files without compromising user privacy. Unlike traditional APIs that process data on remote servers, GhostSpec operates entirely on the client side, ensuring that sensitive data never leaves the user's browser.
 
